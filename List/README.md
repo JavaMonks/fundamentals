@@ -12,3 +12,6 @@ Instructions
 
 6: Commit messages and coding standards are subject to review
 
+
+
+Write small, win big! 
